@@ -1,0 +1,101 @@
+Roll_Number,Student_Name,School_Name,City,State,Total_Marks,Max_Marks,Percentage,Grade,Attendance (%),Result_Status,Extracurricular_Activities,Sports_Participation,Subjects_Failed
+MH105604,Priya,Aadarsh Classes,Satara,Maharashtra,313,500,73.8,C+,93,Fail,Music,Yes,2
+MH109223,Raj,City International,Pune,Maharashtra,375,500,86.38,D,81,Pass,None,Yes,0
+MH102903,Sneha,Daffodils School,Pune,Maharashtra,459,500,80.59,B+,71,Pass,Debate,No,0
+MH102003,Aarti,Aadarsh Classes,Mumbai,Maharashtra,349,500,76.19,B,97,Fail,Music,No,0
+MH104468,Raj,Gokhale Education Society,Solapur,Maharashtra,390,500,65.97,E,75,Fail,None,Yes,0
+MH106670,Rahul,Gokhale Education Society,Aurangabad,Maharashtra,451,500,62.89,A+,70,Pass,None,Yes,0
+MH102095,Arjun,Aadarsh Classes,Nagpur,Maharashtra,457,500,82.75,A,97,Pass,None,Yes,0
+MH109022,Suman,Daffodils School,Pune,Maharashtra,323,500,65.42,B+,94,Pass,None,Yes,0
+MH109113,Pooja,Gokhale Education Society,Nagpur,Maharashtra,466,500,78.86,A,60,Pass,Music,No,0
+MH105522,Ritesh,National Public School,Amravati,Maharashtra,438,500,78.59,E,78,Pass,Debate,No,0
+MH103261,Swati,Gokhale Education Society,Amravati,Maharashtra,326,500,62.4,B+,70,Pass,Art,No,0
+MH104371,Ritesh,Modern High School,Satara,Maharashtra,429,500,65.8,D,80,Fail,Debate,No,0
+MH101323,Vikas,Gokhale Education Society,Thane,Maharashtra,493,500,82.24,B,87,Fail,Drama,No,0
+MH101347,Pooja,Aadarsh Classes,Amravati,Maharashtra,328,500,80.93,B+,80,Fail,Sports,No,0
+MH105383,Swati,Daffodils School,Kolhapur,Maharashtra,430,500,66.75,C+,79,Fail,Debate,No,0
+MH109223,Neha,St. Xavier's,Nashik,Maharashtra,450,500,70.4,A+,69,Pass,Music,Yes,0
+MH104295,John,Daffodils School,Thane,Maharashtra,370,500,74.93,B+,69,Fail,Debate,No,0
+MH108465,Raj,St. Xavier's,Thane,Maharashtra,468,500,86.09,D,80,Pass,Drama,Yes,0
+MH106048,Abhay,Aadarsh Classes,Nashik,Maharashtra,447,500,87.14,C,65,Pass,None,Yes,0
+MH102260,Vikram,City International,Amravati,Maharashtra,373,500,89.15,B+,88,Pass,Art,No,0
+MH102528,Komal,Aadarsh Classes,Thane,Maharashtra,301,500,66.53,B,97,Pass,None,No,0
+MH108089,Sneha,Modern High School,Aurangabad,Maharashtra,444,500,90.74,C,93,Fail,None,No,0
+MH104692,Swati,National Public School,Nagpur,Maharashtra,359,500,96.32,C+,70,Pass,Debate,Yes,0
+MH109311,John,Bal Vidya Mandir,Thane,Maharashtra,421,500,65.49,C,86,Pass,Sports,Yes,0
+MH105407,Vikas,Aadarsh Classes,Nashik,Maharashtra,397,500,91.25,C,98,Fail,None,No,0
+MH107093,Sneha,Gokhale Education Society,Thane,Maharashtra,353,500,99.13,D,73,Pass,Art,Yes,0
+MH106190,Sneha,St. Xavier's,Nagpur,Maharashtra,451,500,73.63,B,81,Pass,Music,No,0
+MH105283,Meena,City International,Aurangabad,Maharashtra,322,500,60.19,D,61,Fail,Drama,No,0
+MH105113,Pooja,Aadarsh Classes,Thane,Maharashtra,445,500,75.74,B,93,Fail,Music,No,0
+MH106155,Abhay,Gokhale Education Society,Nashik,Maharashtra,440,500,85.94,C,62,Fail,Drama,No,0
+MH105948,Suman,St. Xavier's,Nashik,Maharashtra,437,500,72.34,C+,88,Fail,Drama,No,0
+MH102099,Swati,Bal Vidya Mandir,Satara,Maharashtra,330,500,70.21,A+,77,Fail,Sports,No,1
+MH109470,Ritesh,City International,Aurangabad,Maharashtra,447,500,75.73,C+,75,Pass,Debate,No,0
+MH109227,Aarti,Gokhale Education Society,Nagpur,Maharashtra,424,500,97.53,C+,84,Pass,Debate,Yes,0
+MH109642,Abhay,Aadarsh Classes,Aurangabad,Maharashtra,450,500,91.04,A+,81,Fail,Sports,Yes,0
+MH108728,Raj,Greenfield Academy,Amravati,Maharashtra,491,500,83.63,E,99,Fail,Debate,No,0
+MH102278,Vikas,Bal Vidya Mandir,Nashik,Maharashtra,360,500,89.84,E,75,Pass,Drama,Yes,0
+MH107329,Vikram,City International,Nashik,Maharashtra,436,500,99.24,B+,92,Fail,Sports,No,0
+MH107317,Raj,Modern High School,Thane,Maharashtra,358,500,65.41,C,99,Fail,Debate,No,0
+MH108150,Pooja,Daffodils School,Nagpur,Maharashtra,390,500,69.4,A+,75,Fail,Music,Yes,1
+MH103382,Aarti,Modern High School,Aurangabad,Maharashtra,469,500,60.53,D,88,Pass,None,Yes,1
+MH108458,Aarti,City International,Amravati,Maharashtra,381,500,92.52,A+,70,Fail,Art,Yes,0
+MH101323,Meena,Gokhale Education Society,Amravati,Maharashtra,366,500,95.23,A+,89,Pass,Art,No,0
+MH104068,Komal,St. Xavier's,Pune,Maharashtra,391,500,98.43,B,97,Fail,None,No,0
+MH109226,Swati,City International,Kolhapur,Maharashtra,370,500,81.27,C,60,Pass,Sports,Yes,0
+MH106860,Vikram,Bal Vidya Mandir,Kolhapur,Maharashtra,341,500,73.83,C,96,Fail,None,Yes,0
+MH109636,Priya,Modern High School,Amravati,Maharashtra,484,500,79.73,B+,70,Fail,Sports,Yes,0
+MH102676,Raj,Modern High School,Satara,Maharashtra,397,500,86.13,B+,90,Pass,Debate,No,0
+MH106533,Priya,St. Xavier's,Kolhapur,Maharashtra,493,500,63.0,E,70,Pass,None,No,0
+MH105386,Rani,Daffodils School,Amravati,Maharashtra,367,500,84.81,D,65,Pass,Drama,Yes,0
+MH104505,Rani,Global Gurukul,Kolhapur,Maharashtra,490,500,75.16,E,80,Pass,Debate,No,0
+MH104230,Sneha,National Public School,Kolhapur,Maharashtra,350,500,86.47,B+,90,Pass,Drama,Yes,0
+MH104432,Vikram,Aadarsh Classes,Kolhapur,Maharashtra,410,500,80.22,B,96,Fail,Drama,No,0
+MH109630,Abhay,Greenfield Academy,Amravati,Maharashtra,462,500,62.8,C,90,Pass,Music,Yes,0
+MH106456,Suman,Daffodils School,Kolhapur,Maharashtra,300,500,87.02,D,74,Fail,None,Yes,0
+MH107328,Meena,Daffodils School,Pune,Maharashtra,307,500,95.1,B,82,Fail,Debate,No,0
+MH107105,Nikhil,Aadarsh Classes,Aurangabad,Maharashtra,360,500,96.15,E,78,Fail,Art,Yes,0
+MH108602,Rahul,St. Xavier's,Thane,Maharashtra,415,500,73.54,B,62,Pass,Sports,No,0
+MH108222,Ritesh,Bal Vidya Mandir,Pune,Maharashtra,334,500,64.49,E,81,Fail,Drama,No,0
+MH105046,Nikhil,City International,Amravati,Maharashtra,465,500,99.62,D,74,Fail,None,No,0
+MH103736,Swati,National Public School,Nagpur,Maharashtra,475,500,92.16,D,76,Pass,None,No,0
+MH108416,Ritesh,Modern High School,Satara,Maharashtra,411,500,92.16,A,71,Fail,Drama,No,0
+MH105406,Vikram,Daffodils School,Kolhapur,Maharashtra,323,500,92.86,B+,75,Fail,Debate,No,0
+MH102133,Rahul,Modern High School,Satara,Maharashtra,480,500,72.53,D,99,Fail,None,No,0
+MH103900,Meena,Gokhale Education Society,Nagpur,Maharashtra,381,500,77.39,D,87,Fail,Music,No,2
+MH106503,Ajay,City International,Satara,Maharashtra,489,500,98.19,E,63,Pass,Art,No,1
+MH109075,Suman,Daffodils School,Mumbai,Maharashtra,336,500,85.25,B+,100,Fail,Art,Yes,0
+MH106254,Vikas,St. Xavier's,Solapur,Maharashtra,400,500,95.86,B,82,Pass,None,Yes,0
+MH101426,Vikram,Greenfield Academy,Nashik,Maharashtra,312,500,69.96,B+,96,Fail,Music,Yes,0
+MH105645,Arjun,Aadarsh Classes,Pune,Maharashtra,457,500,97.67,A+,91,Pass,Art,Yes,0
+MH103169,Abhay,Aadarsh Classes,Kolhapur,Maharashtra,393,500,69.22,A+,74,Fail,Sports,Yes,0
+MH108366,Ritesh,National Public School,Satara,Maharashtra,403,500,99.59,C+,96,Pass,Music,Yes,0
+MH109453,Arjun,Bal Vidya Mandir,Solapur,Maharashtra,388,500,96.41,B+,83,Pass,Music,Yes,0
+MH109460,John,City International,Pune,Maharashtra,429,500,77.78,B,81,Pass,Art,No,0
+MH105336,Vikas,Global Gurukul,Pune,Maharashtra,491,500,65.29,B+,63,Fail,Art,Yes,0
+MH108876,Rani,St. Xavier's,Pune,Maharashtra,474,500,99.67,D,97,Fail,Sports,Yes,1
+MH106264,Priya,St. Xavier's,Amravati,Maharashtra,463,500,73.69,D,83,Fail,Music,No,0
+MH109835,Suman,Bal Vidya Mandir,Kolhapur,Maharashtra,352,500,98.67,A+,91,Fail,Sports,No,1
+MH106600,Neha,Daffodils School,Mumbai,Maharashtra,309,500,90.02,D,68,Fail,Sports,No,0
+MH105383,Vikram,City International,Satara,Maharashtra,377,500,83.06,B+,88,Fail,Debate,Yes,0
+MH104919,Vikas,Global Gurukul,Mumbai,Maharashtra,395,500,81.27,A,87,Fail,Debate,No,0
+MH101582,Raj,Modern High School,Kolhapur,Maharashtra,439,500,64.22,C,73,Fail,Debate,Yes,0
+MH109560,Pooja,St. Xavier's,Satara,Maharashtra,388,500,64.62,C+,74,Fail,Art,Yes,0
+MH109396,Abhay,Bal Vidya Mandir,Satara,Maharashtra,417,500,79.74,C,78,Fail,Drama,Yes,0
+MH101996,Abhay,Modern High School,Kolhapur,Maharashtra,497,500,81.09,D,99,Pass,Art,No,0
+MH105905,Swati,Daffodils School,Nashik,Maharashtra,420,500,71.5,D,69,Fail,Art,No,0
+MH105603,Sneha,Daffodils School,Kolhapur,Maharashtra,422,500,76.21,E,88,Fail,Art,Yes,0
+MH103569,Priya,City International,Satara,Maharashtra,472,500,90.82,C,61,Pass,Debate,Yes,0
+MH102055,Neha,City International,Kolhapur,Maharashtra,309,500,91.82,B,62,Pass,Art,Yes,0
+MH102051,Neha,Aadarsh Classes,Aurangabad,Maharashtra,476,500,70.88,A+,77,Fail,Debate,No,0
+MH109349,Sneha,Daffodils School,Nashik,Maharashtra,470,500,80.46,D,85,Pass,Art,Yes,0
+MH103368,Pooja,City International,Nashik,Maharashtra,355,500,82.3,C+,83,Fail,Sports,Yes,0
+MH107713,Komal,Greenfield Academy,Kolhapur,Maharashtra,495,500,64.07,E,61,Pass,Sports,No,0
+MH104262,Swati,Greenfield Academy,Satara,Maharashtra,327,500,67.2,D,84,Fail,Music,Yes,0
+MH104201,Neha,Aadarsh Classes,Thane,Maharashtra,467,500,94.4,A,99,Pass,None,No,0
+MH105569,Pooja,Daffodils School,Kolhapur,Maharashtra,386,500,67.05,A+,73,Fail,Drama,No,1
+MH103793,Vikram,Greenfield Academy,Thane,Maharashtra,464,500,89.2,A+,79,Pass,Art,Yes,2
+MH109676,Raj,Bal Vidya Mandir,Pune,Maharashtra,464,500,61.26,B,94,Fail,Art,Yes,0
+MH107875,Swati,City International,Nashik,Maharashtra,304,500,74.19,C,80,Fail,Drama,No,0
+MH102432,Nikhil,Aadarsh Classes,Nashik,Maharashtra,426,500,91.28,B+,96,Pass,Art,No,0
